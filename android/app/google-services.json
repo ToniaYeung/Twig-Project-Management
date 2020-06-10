@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311651532990",
+    "firebase_url": "https://twig-650f0.firebaseio.com",
+    "project_id": "twig-650f0",
+    "storage_bucket": "twig-650f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311651532990:android:8ac0d773a1b0a7c0a25eef",
+        "android_client_info": {
+          "package_name": "com.toniayeung.twig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311651532990-ap4a9i258a9cpmevrp7p5rg0dbkmjrcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6rzAzUopjGxZC2RD4PlYkRL32bvL61A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311651532990-ap4a9i258a9cpmevrp7p5rg0dbkmjrcn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311651532990-j4d1qnr9l93p8ikecn2ianvuoq9sl8qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.toniayeung.twig"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
